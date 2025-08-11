@@ -11,7 +11,7 @@ async function saveUserToGitHub(user) {
     /*
     const GITHUB_TOKEN = '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'; // Should be stored securely
     const REPO_OWNER = 'alwayslanz2';
-    const REPO_NAME = 'your_repo';
+    const REPO_NAME = 'portoLogin';
     const FILE_PATH = `users/${user.email}.json`;
     
     try {
